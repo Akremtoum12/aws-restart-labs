@@ -14,10 +14,11 @@ This included provisioning storage, attaching it to compute instances, and simul
 
 ---
 
+----------
 ## 🖼️ Screenshots
 
 ### 1. Created a New EBS Volume
-![EBS Volume Created](./screenshots/1_volume_created.png)
+![EBS Volume Created](./screenshots/screenshot 1.jpg)
 
 ---
 
