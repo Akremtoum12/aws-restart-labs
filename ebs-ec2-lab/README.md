@@ -18,42 +18,47 @@ This included provisioning storage, attaching it to compute instances, and simul
 ## 🖼️ Screenshots
 
 ### 1. Created a New EBS Volume
-![EBS Volume Created](./screenshots/screenshot 1.jpg)
+![EBS Volume Created](./screenshots/screenshot%201.JPG)
 
 ---
 
 ### 2. Attached Volume to EC2
-![Volume Attached](./screenshots/2_volume_attached.png)
+![Volume Attached](./screenshots/screenshot%202%20-%20aataching%20EBS%20volume.JPG)
+
 
 ---
 
 ### 3. Disk Usage Before Mounting
-![df -h Before Mounting](./screenshots/3_df_before.png)
+![df -h Before Mounting](./screenshots/screenshot%203%20-%20df%20-h%20before%20mounting.JPG)
+
 
 ---
 
 ### 4. Mounted Volume and Verified
-![df -h After Mounting](./screenshots/4_df_after.png)
+![df -h After Mounting](./screenshots/screenshot%204%20-%20df%20-h%20after%20mounting.JPG)
+
 
 ---
 
 ### 5. Wrote and Verified File
-![File Created](./screenshots/5_file_created.png)
+![File Creation and Verification](./screenshots/screenshot%205%20-%20file%20creation%20and%20verification.JPG)
+
 
 ---
 
 ### 6. Created EBS Snapshot
-![Snapshot Created](./screenshots/6_snapshot_created.png)
+![Snapshot Created](./screenshots/screenshot%206%20-%20snapshot%20created.JPG)
+
 
 ---
 
 ### 7. Restored Volume from Snapshot
-![Restored Volume](./screenshots/7_restored_volume.png)
+![Restored Volume](./screenshots/screenshot%207%20-%20restored%20volume%20available.JPG)
 
 ---
 
 ### 8. Verified File on Restored Volume
-![File Restored](./screenshots/8_file_restored.png)
+![File Restored](./screenshots/Screenshot%208%20-%20file%20restored%20from%20snapshot.JPG)
 
 ---
 
